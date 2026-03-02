@@ -87,7 +87,7 @@ a:hover { text-decoration: underline; }
   */
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
-    url("Images/prett-graph-2-1536x732.png");
+    url("prett-graph-2-1536x732.png");
   background-size: cover;
   background-position: center;
   min-height: 360px;
@@ -290,10 +290,10 @@ a:hover { text-decoration: underline; }
 
 /* Optional images (already provided) */
 .img-a {
-  background-image: url("Images/Unknown.jpeg");
+  background-image: url("Unknown.jpeg");
 }
 .img-b {
-  background-image: url("Images/360_F_572860227_WZYTIQSRSBCA4CYdOtvGE4x3J6pJVGEo.jpg");
+  background-image: url("360_F_572860227_WZYTIQSRSBCA4CYdOtvGE4x3J6pJVGEo.jpg");
 }
 
 /* ===== CTA ===== */
